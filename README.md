@@ -4,3 +4,6 @@ to understand and extract specific information similar to a human being.
 <b>Application Architecture:
 
 ![arc](https://user-images.githubusercontent.com/33252532/82927610-96b03180-9f9e-11ea-8657-16ca60fd8b93.jpg)
+
+<b>Result
+![result](https://user-images.githubusercontent.com/33252532/82927849-f3135100-9f9e-11ea-90f0-f148f9280baa.png)
